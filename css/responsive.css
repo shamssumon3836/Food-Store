@@ -1,0 +1,752 @@
+@media only screen and (max-width: 1440px) {
+
+
+
+.header-caption {
+    position: absolute;
+
+    color: white;
+    text-align: center;
+    line-height: 210%;
+    font-size: 37px;
+    margin: 65px 1px 1px -46px !important;
+}
+
+
+.button2{
+	padding: 16px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 0px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+
+.button1 {
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    margin: 488px 0px 10px 570px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: none;
+}
+
+}
+
+
+
+
+
+@media only screen and (max-width: 1280px) {
+
+.made {
+    text-align: center;
+    height: auto;
+    width: 50%;
+    float: left;
+    margin-top: 60px;
+    
+}
+
+
+.login {
+    width: 26% !important;
+    height: 370px !important;
+    background-color: 
+    white;
+    float: left !important;
+    margin: 70px 0px 10px 128px !important;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.button2 {
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    padding: 16px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 22px;
+    margin: 435px 0px 10px 514px;
+transition-duration: 0.4s;
+cursor: pointer;
+border: none;
+}
+.header-caption {
+    position: absolute;
+    color: white;
+    text-align: center;
+    line-height: 210%;
+    font-size: 35px;
+    margin: 5px 1px 1px -81px !important;
+}
+
+
+
+
+}
+
+@media only screen and (max-width: 1080px) {
+
+
+
+.header-caption {
+position: absolute;
+padding: 10% 0% 0% 23%;
+color:
+white;
+text-align: center;
+line-height: 210%;
+font-size: 23px;
+}
+
+
+.button2 {
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 308px 0px 5px 462px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+
+
+.made-right {
+    text-align: center;
+    height: 100px;
+    width: 24%;
+    float: left;
+    margin: -296px 695px 0px;
+}
+
+
+.material-icons{
+    font-size: 60px;
+    border-radius: 50%;
+    background-color: 
+    black;
+	color: white;
+    margin: -30px 0px 0px 115px !important;
+}
+
+.privet {
+    width: 50%;
+    height: 100px;
+    float: left;
+    margin-top: 9px;
+    font-size: 94%;
+}
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+
+
+.header-caption {
+position: absolute;
+padding: 80px 10px 10px 225px;
+color:
+white;
+text-align: center;
+line-height: 210%;
+font-size: 20px;
+}
+
+
+.login {
+    width: 26% !important;
+    height: 370px !important;
+    background-color: 
+    white;
+    float: left !important;
+    margin: 70px 0px 10px 128px;
+    border-radius: 5px;
+}
+
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 1000px) {
+
+
+
+.button2 {
+
+    border: none;
+    color: white;
+    padding: 13px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 72%;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.login {
+    width: 26% !important;
+    height: 370px !important;
+    background-color: 
+    white;
+    float: left !important;
+    margin: 70px 0px 10px 128px !important;
+    border-radius: 5px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 880px) {
+
+
+
+.header-caption {
+    position: absolute;
+    padding: 57px 10px 10px 140px;
+    color: white;
+    text-align: center;
+    line-height: 210%;
+    font-size: 20px;
+}
+
+
+.login {
+    width: 26%;
+    height: 370px;
+    background-color: 
+    white;
+    float: left;
+    margin: 70px 0px 10px 128px;
+    border-radius: 5px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+
+
+.header-caption {
+    position: absolute;
+    padding: 65px 10px 10px 173px;
+    color: 
+    white;
+    text-align: center;
+    line-height: 210%;
+    font-size: 17px;
+}
+
+.login {
+    width: 26%;
+    height: 370px;
+    background-color: 
+    white;
+    float: left;
+    margin: 70px 0px 10px 128px;
+    border-radius: 5px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+
+
+
+
+
+
+
+.head {
+    width: 100%;
+    height: 112px;
+    box-shadow: 0 4px 8px 0 
+rgba(0, 0, 0, 0.2), 0 6px 20px 0
+    rgba(0, 0, 0, 0.19);
+}
+
+
+
+
+.header {
+    text-align: center;
+    height: 65px;
+    width: 100%;
+    float: left;
+    margin-top: -6px;
+}
+
+
+
+.logo{
+	
+    width: 12%;
+    height: auto;
+    margin: 0% 44%;
+    border-radius: 50%;
+
+}
+
+
+.button1{
+	background-color: #24d824;
+    color: white;
+    border-radius: 5px;
+    margin-top: 24%;
+    margin-left: 39%;
+    width: 22%;
+    font-size: 10px;
+    padding: 2%;
+    height: auto;
+
+}
+
+
+
+.made {
+
+    text-align: center;
+    height: auto;
+    width: 100%;
+    float: left;
+    margin: 33px 0px 0px 0px;
+
+    padding: 0px 50px 50px 16px;
+}
+
+
+.made-right {
+
+    text-align: center;
+    height: auto;
+    width: 100%;
+    float: left;
+    margin: 78px -40px 127px -105px;
+}
+
+
+.header-caption {
+    position: absolute;
+    padding: 100px 10px 10px 226px !important;
+    color: 
+    white;
+    text-align: center;
+    line-height: 210%;
+    font-size: 17px ;
+}
+
+
+.privet {
+    width: 100%;
+    margin-top: 50px;
+    margin-left: -87px;
+}
+
+
+.login {
+
+    width: 100% !important;
+    border-radius: 5px;
+    margin: 390px 0px 10px 0px !important;
+    background-color: 
+
+    white;
+
+}
+
+
+.material-icons {
+    font-size: 60px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    margin: -30px 0px 0px 350px !important;
+}
+
+
+input {
+    width: 95%;
+    height: 45px;
+    border: 2px solid #cdbaba;
+    background-color: #d0d0d0;
+    border-radius: 4px;
+	margin: 0px 0px 0px 20px !important;
+    padding: 6px;
+}
+
+
+.specials {
+    float: left;
+    width: 100%;
+    height: auto;
+    margin: 451px 13px 10px 0px !important;
+}
+
+
+
+
+.main-gallery {
+    width: 100%;
+    height: auto;
+    margin-left: 0px !important;
+	margin-top: 335px;
+}
+
+
+.responsive {
+    padding: 7px 7px;
+    width: 100%;
+
+}
+
+.contact {
+    width: 100%;
+	float: left;
+	background-color: #b947b9;
+	margin: 20px 0px 0px 0px;
+	height: 73px;
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+
+
+
+
+.sumon {
+    text-align: center;
+    background-color: black;
+	height: 100px;
+	color:white;
+    padding: 20px;
+    display: inline-block;
+    width: 100%;
+    margin-top: 248px;
+}
+
+
+
+.we {
+    width: 100%;
+    height: auto;
+}
+
+
+
+.imgthumbnail {
+    padding: 4px;
+    background-color: 
+#fff;
+border: 1px solid
+    #ddd;
+    border-radius: 4px;
+    width: 100%;
+    height: auto;
+    margin: 0px 10px 10px 104px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+
+
+.form{
+	margin-top: -50px;
+}
+
+
+
+.ceo {
+    width: 50%;
+    position: absolute;
+    float: left;
+    margin: 20px !important;
+}
+
+
+
+
+.ceos {
+    width: 50%;
+    position: absolute;
+    float: left;
+    margin: 20px 0px 0px 356px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+.logo{
+	
+    width: 12%;
+    height: auto;
+    margin: 0px 44%;
+    border-radius: 50%;
+
+}
+
+
+.button1{
+	background-color: #24d824;
+	color: white;
+	border-radius: 5px;
+	margin-top: 18%;
+	margin-left: 28%;
+	width: 44%;
+	font-size: 10px;
+	padding: 4%;
+	height: auto;
+}
+
+
+.header-caption {
+    position: absolute;
+    padding: 140px 10px 10px 136px !important;
+    color: 
+    white;
+    text-align: center;
+    line-height: 210%;
+    font-size: 12px !important;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 480px) {
+
+.header-caption {
+    position: absolute;
+    padding: 119px 10px 10px 105px !important;
+    color: 
+    white;
+    text-align: center;
+    line-height: 210%;
+    font-size: 10px !important;
+}
+
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 415px) {
+
+.header-caption {
+    position: absolute;
+	padding: 109px 10px 10px 94px !important;
+	color: white;
+	text-align: center;
+	line-height: 210%;
+	font-size: 8px !important;
+	}
+
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 414px) {
+
+.header-caption {
+    position: absolute;
+	padding: 109px 10px 10px 94px !important;
+	color: white;
+	text-align: center;
+	line-height: 210%;
+	font-size: 8px !important;
+	}
+
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 384px) {
+
+.header-caption {
+    position: absolute;
+    padding: 106px 10px 10px 79px !important;
+    color: white;
+    text-align: center;
+    line-height: 210%;
+    font-size: 8px !important;
+
+}
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 360px) {
+
+.header-caption {
+	position: absolute;
+	padding: 101px 10px 10px 80px !important;
+	color: white;
+	text-align: center;
+	line-height: 210%;
+	font-size: 4px !important;
+}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 286.4px) {
+
+.header-caption {
+	position: absolute;
+	padding: 90px 10px 10px 35px !important;
+	color: white;
+	text-align: center;
+	line-height: 210%;
+	font-size: 6px !important;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 286px) {
+
+.privat.p {
+
+    margin: 0px 0px 0px 55px;
+
+}
+
+
+
+
+
+.privet {
+    width: 100%;
+    margin-top: 50px;
+    margin-left: -27px;
+    font-size: 80% !important;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
